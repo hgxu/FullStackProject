@@ -4,9 +4,9 @@
 
 * Rest Service is built with Spring Boot: https://spring.io/quickstart
 * Gradle is used as build automation: https://gradle.org/install/
-* Rest Assured is the used for API test automation: https://rest-assured.io/
 * Dockerfile in the project for build docker image: https://docs.docker.com/engine/reference/builder/
 * Jenkinsfile is included but mixed with part of sudo code for trigger automation etc.
+* Rest Assured is the used for API test automation: https://rest-assured.io/
 
 ### Execution Guides Run Locally
 
