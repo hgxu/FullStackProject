@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: example.demo.FileDemoApplication
+Class-Path: /Users/gracexu/FullStackProject
+
