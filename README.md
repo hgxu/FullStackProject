@@ -8,7 +8,7 @@
 * Dockerfile in the project for build docker image: https://docs.docker.com/engine/reference/builder/
 * Jenkinsfile is included but mixed with part of sudo code for trigger automation etc.
 
-### Execution Guides locally
+### Execution Guides Run Locally
 
 * cd FullStackProject
 * Build jar file: ./gradlew build
