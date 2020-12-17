@@ -1,6 +1,6 @@
 # FullStackProject 
 
-### Reference Documentation
+### Documentation and Reference
 
 * Spring Boot framework is used for building the Restful file upload service, about Spring Boot: https://spring.io/quickstart
 * Gradle is used as build automation, about Gradle: https://gradle.org/install/
