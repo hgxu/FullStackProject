@@ -19,7 +19,7 @@ Note : Currently my local server is used for storage for uploaded file, please u
 
 
 ### Test
-* Automation test framework: 
+* Automation test framework: https://github.com/hgxu/TestFramework
 * Health Check: http://localhost:8080/health
 * Help: http://localhost:8080/help
 
