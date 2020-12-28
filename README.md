@@ -10,8 +10,6 @@
 
 ### Execution Guides locally
 
-Note : Currently my local server is used for storage for uploaded file, please update it to your server location in application.properties in file.upload-dir=
-
 * cd FullStackProject
 * Build jar file: ./gradlew build
 * Build docker image: docker build --build-arg JAR_FILE=build/libs/*.jar -t fullstackproject:2.0 .
